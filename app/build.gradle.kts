@@ -56,7 +56,7 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation("dev.chrisbanes.haze:haze-jetpack-compose:0.5.4")
-    implementation("dev.chrisbanes.haze:haze-materials:0.5.4")
-    implementation("com.airbnb.android:lottie-compose:6.2.0")
+    implementation(libs.haze.jetpack.compose)
+    implementation(libs.haze.materials)
+    implementation(libs.lottie.compose)
 }
