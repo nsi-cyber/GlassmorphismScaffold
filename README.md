@@ -210,15 +210,6 @@ fun SettingsPanel() {
 }
 ```
 
-## 🎯 Use Cases
-
-- **🎵 Media Players**: Album art backgrounds with control overlays
-- **💳 Banking Apps**: Card-like components with security in mind
-- **📊 Dashboards**: Data visualization with elegant glass panels
-- **🛍️ E-commerce**: Product showcase with premium feel
-- **⚙️ Settings**: Modern configuration panels
-- **🔔 Notifications**: Subtle notification overlays
-
 ## ⚡ Performance Tips
 
 1. **Background Content**: Use optimized images and avoid complex animations in background
@@ -275,11 +266,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - Modern toolkit for native UI
 - iOS UIVisualEffectView - Inspiration for the API design
 
-## 📧 Contact
-
-- **Developer**: [Your Name]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
 
 ---
 
