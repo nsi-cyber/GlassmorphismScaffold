@@ -1,4 +1,5 @@
 [versions]
+accompanistDrawablepainter = "0.35.0-alpha"
 agp = "8.9.1"
 hazeJetpackCompose = "1.6.4"
 kotlin = "2.0.21"
@@ -12,6 +13,7 @@ composeBom = "2024.09.00"
 lottieCompose = "6.5.2"
 
 [libraries]
+accompanist-drawablepainter = { module = "com.google.accompanist:accompanist-drawablepainter", version.ref = "accompanistDrawablepainter" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 haze-jetpack-compose = { module = "dev.chrisbanes.haze:haze", version.ref = "hazeJetpackCompose" }
 haze-materials = { module = "dev.chrisbanes.haze:haze-materials", version.ref = "hazeJetpackCompose" }
